@@ -4,9 +4,7 @@ income of an individual as less than 50000 or more than 50000 based on various d
 
 -The aim to simplify the data system by reducing the number of variables to be studied for accurate classification of the individual without sacrificing too much of the accuracy. Further we aim the study the parameters that play an income role in determining the income of an individual.
 
--This is binary classification based problem to predict the income level of a person. The predicts made useing Logestic Regression model and KNN model are comapred and method with the best acuracy is chosen.
-
-- Sklearn python library has been used.
+-This is binary classification based problem to predict the income level of a person. The predicts made useing Logestic Regression model and KNN model are comapred and method with the best acuracy is chosen.Sklearn python library has been used.
 
 Dataset:
 The adult income dataset is obtained from Kaggle. It contains the income related data of 31978 individuals. 
